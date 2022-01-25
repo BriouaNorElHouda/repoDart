@@ -32,7 +32,7 @@ class _AddOneState extends State<AddOne> {
 
 
               child: Image(
-                image:AssetImage('images/dice+'+i.toString()+'.png'),
+                image:AssetImage('images/dice'+i.toString()+'.png'),
 
 
 
