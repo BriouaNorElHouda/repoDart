@@ -22,6 +22,7 @@ class _AddOneState extends State<AddOne> {
         ),
         body: Center(
           child: Text(
+            '  أستغفر الله  '
             '$i',
             style: TextStyle(
               color: Colors.deepPurple[600],
