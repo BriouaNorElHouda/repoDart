@@ -26,7 +26,7 @@ class Home extends StatelessWidget{
                   color: Colors.blue,
                   child: Text('-1-'),
                 ),
-                SizedBox(height:70),
+                
                 Container(
                   padding: EdgeInsets.all(40.0),
                   color: Colors.green,
